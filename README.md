@@ -4,3 +4,8 @@
 #### Course URL: https://learn.krishnaikacademy.com/web/courses/details/67756e6cb49aad503a3a127a
 ### Sample Projects:
   1. https://github.com/virattt/ai-hedge-fund
+
+### Create Virtual Environment:
+```
+  conda create -p venv python==3.12
+```
